@@ -1,0 +1,6 @@
+web\service\ServingLayerController.class
+web\scraping\jsoup\TestJsoup.class
+web\scraping\jsoup\TestJsoupScholar.class
+web\scraping\jsoup\ImgInfo.class
+web\scraping\jsoup\Area.class
+web\service\ServingLayerConfiguration.class
